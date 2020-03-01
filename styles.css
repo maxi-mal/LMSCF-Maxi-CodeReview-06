@@ -1,0 +1,65 @@
+.container-fluid {
+  background-image: url("../img/coffeebeans.jpg");
+  background-repeat: repeat-x;
+  margin-top: 30px; }
+
+.card-img-top {
+  height: 260px;
+  width: 300px;
+}
+
+.card-img-top:hover {
+  box-shadow: 1px 1px #707070; }
+
+.line {
+  border: 2px solid red; }
+
+.row1 {
+  font-size: 60px;
+  font-family: "Long Cang", cursive;
+  color: black;
+  margin: 30px;
+  background-color: 250 218 94 .7;
+  border: 5px; }
+
+.colorIcon {
+  color: #94b6ff; }
+
+.card-text {
+  margin-left: 24px; }
+
+.card-text:hover {
+  margin-left: 24px; }
+
+.card {
+  font-family: "Long Cang", cursive;
+  color: #d9dadb; }
+
+.card:hover {
+  box-shadow: 2px 3px #e0e0e0;
+  font-family: "Long Cang", cursive;
+  color: #707070; }
+
+.navbar-brand {
+  font-family: "Long Cang", cursive; }
+
+.fontCardTitle {
+  font-family: "Long Cang", cursive;
+  color: #707070; }
+
+.fontCardTitle:hover {
+  text-decoration: none;
+  color: #707070; }
+
+.colorFooter {
+  background-image: url("./img/coffeebeans.jpg");
+  background-repeat: repeat-x;
+  margin-top: 30px; }
+
+.credits {
+  font-family: "Long Cang", cursive;
+  color: black;
+  font-size: 14pt; }
+
+
+
